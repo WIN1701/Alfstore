@@ -17,7 +17,7 @@ const productos: Producto[] = [
   { 
     nombre: "ALF RED AND BLUE", 
     precio: "$17.99", 
-    imagen: "/camisa1.jpg",
+    imagen: "/camisa1.png",
     fallback: "https://images.unsplash.com/photo-1521572267360-ee0c2909d518?q=80&w=600&auto=format&fit=crop"
   },
   { 
