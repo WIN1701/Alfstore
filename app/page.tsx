@@ -16,31 +16,31 @@ interface Producto {
 const productos: Producto[] = [
   { 
     nombre: "ALF CAOS TEE", 
-    precio: "$29.99", 
+    precio: String, 
     imagen: "/camisa1.jpg",
     fallback: "https://images.unsplash.com/photo-1521572267360-ee0c2909d518?q=80&w=600&auto=format&fit=crop"
   },
   { 
     nombre: "CRIS-CROS TEE", 
-    precio: "$29.99", 
+    precio: String, 
     imagen: "/camisa2.jpg",
     fallback: "https://images.unsplash.com/photo-1562157873-818bc0726f68?q=80&w=600&auto=format&fit=crop"
   },
   { 
     nombre: "OLD ALF TEE", 
-    precio: "$29.99", 
+    precio: String, 
     imagen: "/camisa3.jpg",
     fallback: "https://images.unsplash.com/photo-1503342217505-b0a15ec3261c?q=80&w=600&auto=format&fit=crop"
   },
   { 
     nombre: "SHADOW TEE", 
-    precio: "$29.99", 
+    precio: String, 
     imagen: "/camisa4.jpg",
     fallback: "https://images.unsplash.com/photo-1574169208507-84376144848b?q=80&w=600&auto=format&fit=crop" 
   },
   { 
     nombre: "ALF RED CAPS TEE", 
-    precio: "$29.99", 
+    precio: String, 
     imagen: "/camisa5.jpg",
     fallback: "https://images.unsplash.com/photo-1529374255404-311a2a4f1fd9?q=80&w=600&auto=format&fit=crop"
   },
